@@ -1,11 +1,11 @@
 # Kickstarting with Excel
 
-## Project Overview
-### Analyzing campaigns to determine outcomes in relation to their launch dates and funding goals.
+## Project Overview 
+### Identify specific factors for a successful crowdfunding campaign. Specifically, determine outcomes in relation to their launch dates and funding goals.
 
 ## Analysis and Challenges
 
-### Analysis of Outcomes Based on Launch Date
+### (Analysis of Outcomes Based on Launch Date)
 
 ### Analysis of Outcomes Based on Goals
 
