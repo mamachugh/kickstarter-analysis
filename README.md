@@ -22,11 +22,11 @@ The first step began by creating a pivot table and filtering that table by `Pare
 
 
 
-
+<--
 1.3.1 FINDING: If we filter for only the United States campaigns, we will find that there were 525 successful theater Kickstarters.
 1.3.2 FINDING: We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category is the most successful.
 1.3.3 FINDING: The month that launched the most successful Kickstarter campaigns was May. However, January, June, July and October all had roughly the same number of failed campaigns launched. This can be determined by examining the points along the trend lines of the chart. As you hover over each point with your mouse pointer, a tooltip appears with the corresponding information.
-
+-->
 
 
 
