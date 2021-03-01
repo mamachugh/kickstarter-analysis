@@ -6,7 +6,7 @@
 ## Analysis and Challenges
 ### Specific factors for a successful crowdfunding campaign were identified using charts and graphs in relation to launch dates and funding goals.
 
-
+<--
 The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
 * The `outcomes` column was shaded to more easily identify the outcomes as Successful/green, Failed/pink, Canceled/yellow, and Live/blue. 
 * The following columns were added after column N for additional data:
@@ -15,6 +15,7 @@ The original dataset is represented in columns A-N on the "Kickstarter" page. Mo
   - the original `Category and Subcategory` were split into 2 separate columns, Q & R, respectively
   - `launched_at` and `deadline` date columns were converted to US format and labeled as `Create_Date_Convert` and `End_Date_Convert` in columns S and T, respectively
   - the `Year` column was added in column U and was pulled from the `Create_Date_Convert`
+-->
 
 ### Analysis of Outcomes Based on Launch Date:
 The first step began by creating a pivot table and filtering that table by `Parent_Category` of Theater and the Subcategory of Plays.  
