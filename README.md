@@ -13,13 +13,14 @@ Identify specific factors for a successful crowdfunding campaign. This report in
 From the first chart it is evident that the  
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79054284/109452073-8b4dd300-7a14-11eb-80d2-11b8cd9b0428.png)
-#### Theater Outcomes Based on Launch Date
+**Theater Outcomes Based on Launch Date**
+
 
 
 ### Analysis of Outcomes Based on Goals
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79054284/109451322-ccdd7e80-7a12-11eb-8d4d-de1566d17039.png)
-#### Outcomes Based on Goal
+**Outcomes Based on Goal**
 
 ### Challenges and Difficulties Encountered
 
