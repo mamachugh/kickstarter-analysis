@@ -5,7 +5,15 @@ Determine successful characteristics for U.S. plays with a goal of $10,000 in fu
 
 ## Analysis and Challenges
 ### Overview
-Specific factors for a successful crowdfunding campaign were identified using charts and graphs in relation to launch dates and funding goals.
+Identify specific factors for a successful crowdfunding campaign. The link to the Excel file and a chart and graph (below) were used to more easily visualize the data. 
+
+#### Theater Outcomes Based on Launch Date
+
+
+
+#### Outcomes Based on Goal
+
+
 
 <!--
 The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
