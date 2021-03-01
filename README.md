@@ -1,10 +1,13 @@
 # Kickstarting with Excel
 
 ## Project Overview 
-### Identify specific factors for a successful crowdfunding campaign. Specifically, determine outcomes in relation to their launch dates and funding goals.
+### Determine successful characteristics for U.S. plays requiring $10,000 in funding. 
 
 ## Analysis and Challenges
-### The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
+### Specific factors for a successful crowdfunding campaign were identified. Specifically, determine outcomes in relation to their launch dates and funding goals.
+
+
+The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
 * The `outcomes` column was shaded to more easily identify the outcomes as Successful/green, Failed/pink, Canceled/yellow, and Live/blue. 
 * The following columns were added after column N for additional data:
   - `Percentage_Funded` was added as column O and shaded to indicate which campaigns met their goals
