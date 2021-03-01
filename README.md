@@ -5,23 +5,21 @@ Determine successful characteristics for U.S. plays with a goal of $10,000 in fu
 
 ## Analysis and Challenges
 ### Overview
-Identify specific factors for a successful crowdfunding campaign. Several resources are below, including a link to the Excel data set and embedded charts which were used to more easily visualize the data. 
+Identify specific factors for a successful crowdfunding campaign. This report includes several resources including a link to the Excel data set. Embedded charts were used to more easily visualize the data. 
 
 [Kickstarter_Analysis_Excel_Dataset](mamachugh/kickstarter-analysis/Kickstarter_Challenge.zip)
 
+### Analysis of Outcomes Based on Launch Date:
+From the first chart it is evident that the  
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79054284/109452073-8b4dd300-7a14-11eb-80d2-11b8cd9b0428.png)
 #### Theater Outcomes Based on Launch Date
 
 
+### Analysis of Outcomes Based on Goals
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79054284/109451322-ccdd7e80-7a12-11eb-8d4d-de1566d17039.png)
 #### Outcomes Based on Goal
-
-
-### Analysis of Outcomes Based on Launch Date:
-From the first chart it is evident that the  
-
-### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
 
