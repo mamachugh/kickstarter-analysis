@@ -9,7 +9,6 @@ Identify specific factors for a successful crowdfunding campaign. The link to th
 
 #### Theater Outcomes Based on Launch Date
 
-![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79054284/109451356-dff04e80-7a12-11eb-9524-aab4df6bc385.png)
 
 #### Outcomes Based on Goal
 
