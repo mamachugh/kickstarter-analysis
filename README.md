@@ -6,7 +6,7 @@ Determine successful characteristics for U.S. plays with a goal of $10,000 in fu
 ## Analysis and Challenges
 ### Overview
 Identify specific factors for a successful crowdfunding campaign. The link to the Excel file and a chart and graph (below) were used to more easily visualize the data. 
-[Kickstarter_Analysis](kickstarter-analysis/kickstarter.xlsx)
+[Kickstarter_Analysis_Excel_Dataset](mamachugh/kickstarter-analysis/Kickstarter_Challenge.zip)
 
 #### Theater Outcomes Based on Launch Date
 
