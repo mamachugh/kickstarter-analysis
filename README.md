@@ -14,7 +14,7 @@
   - the `Year` column was added in column U and was pulled from the `Create_Date_Convert`
 
 ### Analysis of Outcomes Based on Launch Date:
-The first step began by creating a pivot table and filtering that table by `Parent_Category` of Theater. This  
+The first step began by creating a pivot table and filtering that table by `Parent_Category` of Theater and the Subcategory of Plays.  
 
 
 
