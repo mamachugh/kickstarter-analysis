@@ -10,7 +10,7 @@ Identify specific factors for a successful crowdfunding campaign. This report in
 [Kickstarter_Analysis_Excel_Dataset](mamachugh/kickstarter-analysis/Kickstarter_Challenge.zip)
 
 ### Analysis of Outcomes Based on Launch Date:
-From the first chart it is evident that the  
+The first chart clearly indicates the best month to launch a campaign is May. Similarly, June through August may be acceptable, but 1st and 4th quarters are risky.
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79054284/109452073-8b4dd300-7a14-11eb-80d2-11b8cd9b0428.png)
 **Theater Outcomes Based on Launch Date**
