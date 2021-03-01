@@ -9,14 +9,14 @@ Identify specific factors for a successful crowdfunding campaign. The link to th
 
 #### Theater Outcomes Based on Launch Date
 
-
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/79054284/109451356-dff04e80-7a12-11eb-9524-aab4df6bc385.png)
 
 #### Outcomes Based on Goal
 
-
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/79054284/109451322-ccdd7e80-7a12-11eb-8d4d-de1566d17039.png)
 
 <!--
-The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
+The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to more easily understand the data. 
 * The `outcomes` column was shaded to more easily identify the outcomes as Successful/green, Failed/pink, Canceled/yellow, and Live/blue. 
 * The following columns were added after column N for additional data:
   - `Percentage_Funded` was added as column O and shaded to indicate which campaigns met their goals
