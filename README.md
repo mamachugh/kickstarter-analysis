@@ -4,7 +4,7 @@
 ### Determine successful characteristics for U.S. plays requiring $10,000 in funding. 
 
 ## Analysis and Challenges
-### Specific factors for a successful crowdfunding campaign were identified. Specifically, determine outcomes in relation to their launch dates and funding goals.
+### Specific factors for a successful crowdfunding campaign were identified using charts and graphs in relation to launch dates and funding goals.
 
 
 The original dataset is represented in columns A-N on the "Kickstarter" page. Modifications and additions were made to understand the data more easily. 
